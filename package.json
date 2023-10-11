@@ -1,5 +1,6 @@
 {
   "name": "robofriends",
+  "homepage": "https://Davve686.github.io/my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,6 +38,8 @@
     ]
   },
   "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "eslint": "^8.51.0",
+    "eslint-plugin-react": "^7.33.2"
   }
 }
